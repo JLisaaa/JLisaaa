@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JLisaa /// Jhalisa 
+- 👋 Hi, I’m Jhalisa 
 - 👀 I’m interested in anything tech!
 - 🌱 I’m currently learning python
 - 📫 How to reach me .....
